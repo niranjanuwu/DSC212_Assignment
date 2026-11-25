@@ -27,3 +27,4 @@ The notebook creates `assets/` itself if it does not exist.
 
 ## Reference
 Newman, M. E. J. (2006). Modularity and community structure in networks. *PNAS* 103(23):8577-8582.
+Disclaimer: Use of AI to aid, as permitted by the assignment
